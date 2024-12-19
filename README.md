@@ -13,8 +13,8 @@
             <p>- 🧗 I try to: Go beyond and push the bounds</p>
             <p>- ⚡ Fun fact: I love connecting with different people :raised_hands:</p>
         </td> 
-        <td style="text-align:center; width:50%" padding-left="20px" padding-right="20px">
-            <img align="right" height="300px" width="300px" alt="GIF" src="https://github.com/Dany-Live/Dany-Live/blob/main/BANNER/magic-wolf.gif"/>
+        <td style="text-align:center; width:50%">
+            <img align="right" height="300px" width="300px" padding-left="30px" padding-right="30px" alt="GIF" src="https://github.com/Dany-Live/Dany-Live/blob/main/BANNER/magic-wolf.gif"/>
         </td> 
     </tr> 
 </table>
