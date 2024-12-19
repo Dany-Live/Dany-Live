@@ -1,4 +1,4 @@
-<img src="https://github.com/Dany-Live/Dany-Live/blob/main/BANNER/649639.jpg" alt="Aditya Vikram Singh Banner" width="800"/>
+<img src="https://github.com/Dany-Live/Dany-Live/blob/main/BANNER/649639.jpg" alt="Aditya Vikram Singh Banner" width="800" height="200"/>
 
 <br>
 
