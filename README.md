@@ -1,5 +1,12 @@
 <img src="https://github.com/Dany-Live/Dany-Live/blob/main/BANNER/649639.jpg" alt="Aditya Vikram Singh Banner" width="800" height="100"/>
 
+<table style="width:100%"> 
+    <tr> 
+        <td style="text-align:right; width:50%">Elemento Columna 1</td> 
+        <td style="text-align:center; width:50%">Elemento Columna 2</td> 
+    </tr> 
+</table>
+
 <br>
 
 <img align="right" height="220px" alt="GIF" src="https://github.com/Dany-Live/Dany-Live/blob/main/BANNER/magic-wolf.gif"/>
