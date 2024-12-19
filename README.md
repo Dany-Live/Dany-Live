@@ -6,10 +6,11 @@
             <p>Hi</p>
             <p>◐ JAVA Developer ♨️</p>
             <p>◐ Assembly language programmer ⚙️</p>
-
-
-            
-            <p>⎛⎝ ≽  >  ⩊   < ≼ ⎠⎞</p>
+            <p>            ╱|、
+                          (˚ˎ 。7  
+                           |、˜〵          
+                          じしˍ,)ノ
+            </p>
         </td> 
         <td style="text-align:center; width:50%">
             &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
