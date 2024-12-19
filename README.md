@@ -2,7 +2,7 @@
 
 <table style="width:100%"> 
     <tr> 
-        <td style="text-align:right; width:70%">
+        <td style="text-align:right; width:50%">
             <p>Hi</p>
             <p>- 🔭 I’m currently working on my Portfolio Website :grin:</p>
             <p>- 🌱 I’m currently learning MERN Stack Development.</p>
@@ -13,7 +13,7 @@
             <p>- 🧗 I try to: Go beyond and push the bounds</p>
             <p>- ⚡ Fun fact: I love connecting with different people :raised_hands:</p>
         </td> 
-        <td style="text-align:center; width:30%">
+        <td style="text-align:center; width:50%" padding-left="20px" padding-right="20px">
             <img align="right" height="300px" width="300px" alt="GIF" src="https://github.com/Dany-Live/Dany-Live/blob/main/BANNER/magic-wolf.gif"/>
         </td> 
     </tr> 
