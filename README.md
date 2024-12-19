@@ -2,7 +2,7 @@
 
 <br>
 
-<img align="right" height="270px" alt="GIF" src="https://github.com/Dany-Live/Dany-Live/blob/main/BANNER/magic-wolf.gif"/>
+<img align="right" height="220px" alt="GIF" src="https://github.com/Dany-Live/Dany-Live/blob/main/BANNER/magic-wolf.gif"/>
 
 ### Hi
 - 🔭 I’m currently working on my Portfolio Website :grin:
