@@ -14,7 +14,7 @@
             <p>- ⚡ Fun fact: I love connecting with different people :raised_hands:</p>
         </td> 
         <td style="text-align:center; width:50%">
-            <img align="right" height="500px" width="500" alt="GIF" src="https://github.com/Dany-Live/Dany-Live/blob/main/BANNER/magic-wolf.gif"/>
+            <img align="right" height="490px" width="490" alt="GIF" src="https://github.com/Dany-Live/Dany-Live/blob/main/BANNER/magic-wolf.gif"/>
         </td> 
     </tr> 
 </table>
