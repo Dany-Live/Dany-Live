@@ -13,6 +13,7 @@
                           じしˍ,)ノ
             </pre>
         </td> 
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
         <td style="text-align:center; width:50%">
             &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
             <img align="right" height="300px" width="300px" style="margin-left: 100px; margin-right: 100px;" alt="GIF" src="https://github.com/Dany-Live/Dany-Live/blob/main/BANNER/magic-wolf.gif"/>
