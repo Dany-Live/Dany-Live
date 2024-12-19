@@ -7,10 +7,10 @@
             <p>◐ JAVA Developer ♨️</p>
             <p>◐ Assembly language programmer ⚙️</p>
             <pre>
-                           ╱|、
-                          (˚ˎ 。7  
-                           |、˜〵          
-                          じしˍ,)ノ
+                     ╱|、
+                    (˚ˎ 。7  
+                     |、˜〵          
+                     じしˍ,)ノ
             </pre>
         </td>
         <td style="text-align:center; width:50%">
