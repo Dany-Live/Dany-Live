@@ -3,7 +3,7 @@
 <table style="width:100%"> 
     <tr> 
         <td style="text-align:right; width:50%">
-            <p>###Hi</p>
+            <p>Hi</p>
             <p>- 🔭 I’m currently working on my Portfolio Website :grin:</p>
             <p>- 🌱 I’m currently learning MERN Stack Development.</p>
             <p>- 👯 I’m looking to collaborate with other Developers :wink:</p>
@@ -20,8 +20,7 @@
 </table>
 
 <br>
-
 ## 🌑 LANGUAGE:
 <p align="left">
     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
-</p># Dany-Live
+</p>
