@@ -1,4 +1,4 @@
-![Aditya Vikram Singh Banner](https://github.com/Dany-Live/Dany-Live/blob/main/BANNER/649639.jpg)
+<img src="https://github.com/Dany-Live/Dany-Live/blob/main/BANNER/649639.jpg" alt="Aditya Vikram Singh Banner" width="800"/>
 
 <br>
 
